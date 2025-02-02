@@ -12,7 +12,7 @@ export const projects = [
     gif: '/Videos/Onlin_Banking-VEED.gif',
     name: 'Medideliver',
     description: `Medideliver is a web application that connects patients with healthcare providers for virtual consultations and prescription delivery. Patients can schedule appointments, consult with doctors via video calls, and receive prescriptions online. The application is built with React, Node.js, and MongoDB.`,
-    demoLink: '/Videos/Media.mp4',
+    demoLink: 'https://res.cloudinary.com/dsp7m9bat/video/upload/v1738535141/w3n2v2ddwohz92c58tqy.mp4',
     reviewLink: '#',
     githubLink: 'https://github.com/Nairaalmelegy/medi-deliver.git'
   },
@@ -22,7 +22,7 @@ export const projects = [
     gif: '/Videos/Onlin_Banking.gif',
     name: 'VistaVault',
     description: `VistaVault is a secure password manager that allows users to store and manage their passwords in one place. The application encrypts user data and provides secure access to passwords across devices. VistaVault is built with React, Node.js, and PostgreSQL.`,
-    demoLink: '/Videos/Vista.mp4',
+    demoLink: 'https://res.cloudinary.com/dsp7m9bat/video/upload/v1738535415/p6dw7esauyjkvtrqkcbe.mp4',
     reviewLink: 'https://review2.com',
     githubLink: 'https://github.com/Nairaalmelegy/VistaVault_Repo.git'
   },
@@ -32,7 +32,7 @@ export const projects = [
     gif: '/Hero-Gif.gif',
     name: 'Personal Portfolio',
     description: `My personal portfolio website showcases my projects, skills, and experience as a full stack developer. The website is built with React and Tailwind CSS, and it features a responsive design that adapts to different screen sizes.`,
-    demoLink: '/Videos/Personal_Portfolio.mp4',
+    demoLink: '#',
     reviewLink: '#',
     githubLink: '#'
   },
@@ -42,7 +42,7 @@ export const projects = [
     gif: '/Videos/Game.gif',
     name: 'Zombie Survival Game',
     description: `Zombie Survival Game is a 2D first-person shooter game where players must survive a zombie apocalypse by shooting zombies. The game features realistic graphics, dynamic lighting, and immersive gameplay. It is built with C++ and OpenGL.`,
-    demoLink: '/Videos/Zombie.mp4',
+    demoLink: 'https://res.cloudinary.com/dsp7m9bat/video/upload/v1738534938/j8lvpltcuvj6x8vdfeq2.mp4',
     reviewLink: '#',
     githubLink: 'https://github.com/Nairaalmelegy/Zombie_Survival.git'
   },
