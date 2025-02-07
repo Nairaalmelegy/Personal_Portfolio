@@ -60,13 +60,19 @@ export const About = () => {
               >
                 &times;
               </button>
-              <video className="w-full h-auto" controls>
-                <source src="What_Is_Bioinformatics.mp4" type="video/mp4" />
-                Your browser does not support the video tag.
-              </video>
+              <iframe
+                width="100%"
+                height="315"
+                src="https://www.youtube.com/embed/K9MqyU298uE?autoplay=1"
+                title="What is Bioinformatics"
+                frameBorder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowFullScreen
+              ></iframe>
             </div>
           </div>
         )}
+
 
         {/* Small icons */}
         <div className="hidden sm:block">
